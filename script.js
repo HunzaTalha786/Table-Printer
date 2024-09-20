@@ -7,7 +7,7 @@ function printTable(){
         document.getElementById('display-table').innerHTML += `${tableNum}x ${i} = ${ tableNum*i}<br>`;
         
     }
-    console.log('work');
+    
 
 }
 function refresh(){
